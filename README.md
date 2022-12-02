@@ -7,11 +7,12 @@
 
 ## Install
 Require go version 1.17+.
-```
+
 ### Download source codes
 ```
 $ git clone https://github.com/hero5512/encrypt-tool
 ```
+
 ### Install
 ```
 $ cd encrypt-tool
@@ -19,7 +20,6 @@ $ go mod tidy -compat=1.17
 $ go build
 ```
 
-```
 ### Test it
 ```
 $ encrypt-tool e hello
